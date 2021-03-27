@@ -1,0 +1,8 @@
+C:\Users\Acer\source\repos\WCFServiceSOAP\Classes\bin\Debug\netstandard2.1\Classes.deps.json
+C:\Users\Acer\source\repos\WCFServiceSOAP\Classes\bin\Debug\netstandard2.1\Classes.dll
+C:\Users\Acer\source\repos\WCFServiceSOAP\Classes\bin\Debug\netstandard2.1\Classes.pdb
+C:\Users\Acer\source\repos\WCFServiceSOAP\Classes\obj\Debug\netstandard2.1\Classes.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\WCFServiceSOAP\Classes\obj\Debug\netstandard2.1\Classes.AssemblyInfo.cs
+C:\Users\Acer\source\repos\WCFServiceSOAP\Classes\obj\Debug\netstandard2.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\WCFServiceSOAP\Classes\obj\Debug\netstandard2.1\Classes.dll
+C:\Users\Acer\source\repos\WCFServiceSOAP\Classes\obj\Debug\netstandard2.1\Classes.pdb
